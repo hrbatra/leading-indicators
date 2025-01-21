@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "leadindicator"
-version = "0.1.0"
+version = "0.1.1"
 authors = [
   { name="Harish Batra", email="hrbatra@utexas.edu" },
 ]
@@ -35,5 +35,5 @@ package-dir = {"" = "src"}
 where = ["src"]
 
 [project.urls]
-"Homepage" = "https://github.com/harishbatra/leadindicator"
-"Bug Tracker" = "https://github.com/harishbatra/leadindicator/issues" 
+"Homepage" = "https://github.com/hrbatra/leading-indicators"
+"Bug Tracker" = "https://github.com/hrbatra/leading-indicators/issues" 
